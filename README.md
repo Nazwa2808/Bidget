@@ -3,7 +3,6 @@ Bidget - E-Commerce Pot Bekas
 
     Tentang Project : Project ini dibuat untuk mendukung gaya hidup ramah lingkungan dengan cara memanfaatkan kembali pot bekas yang masih bisa digunakan. Melalui website ini, pengguna dapat: Melihat produk pot bekas Menambahkan produk ke keranjang, Dan Melakukan checkout.
 
-
 Fitur Utama
 A. Untuk User
     - Melihat daftar produk pot bekas
